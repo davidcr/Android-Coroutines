@@ -1,9 +1,7 @@
 package com.example.app
 
-import kotlinx.coroutines.experimental.Job
-
 interface JobHolder {
 
-    val job: Job
+    //TODO 6-1 get this interface a value field that's a kotlinx.coroutines.experimental.Job
 
 }
